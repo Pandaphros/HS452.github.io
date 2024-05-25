@@ -1,0 +1,49 @@
+*{
+  margin: 0%;
+  padding: 0%;
+  font-family:"Montserrat", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+
+.header{
+background-color: rgb(20, 20, 20);
+color: aliceblue;
+height: 40px;
+width: 1100px;
+text-align: center;
+}
+
+.imgPerfil{
+width: 151px ;
+height: 290px ;
+border-radius: 15px;
+}
+
+
+h1{
+  font-family: "Titan One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  margin: 40px;
+}
+
+
+
+h4{
+  text-align:start;
+  margin: 40px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: italic;
+}
+
+
+footer{
+background-color: rgb(20, 20, 20);
+height: 90px ;
+width: 1000px;
+color: aliceblue;
+}
+
