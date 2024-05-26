@@ -1,6 +1,6 @@
 *{
   margin: 0%;
-  padding: 0%;
+  padding: 0px;
   font-family:"Montserrat", sans-serif;
   font-optical-sizing: auto;
   font-weight: weight;
@@ -13,7 +13,7 @@ margin: 40px;
 width: 150px ;
 height: 290px ;
 border-radius: 15px;
-border: 6px solid pink
+border: 6px solid rgb(193, 139, 240)
 }
 .perfilP{
   text-align: left;
@@ -26,12 +26,28 @@ h4{
   font-weight: 300;
   font-style: normal
 }
-
+.titulo{
+  padding: 18px;
+  margin: 8px;
+}
 
  .fa-brands:hover{
   
 transform: scale(1.5);
  }
+
+ .section1{
+  padding: 18px;
+  margin: 8px;
+ }
+.iconos{
+  padding: 20px;
+  margin: 10px;
+}
+.section2{
+  padding: 18px;
+  margin: 8px;
+}
 
  footer{
   background-color: black;
@@ -60,7 +76,7 @@ justify-content: center;
   text-align: justify;
  }
  .foto{
-  
-  width: 29rem;
+  width: 28rem;
   padding: 8px;
- }
+}
+
